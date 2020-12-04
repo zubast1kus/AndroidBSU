@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first_song"
+        android:orderInCategory="1"
+        android:title="@string/play_1st" />
+    <item
+        android:id="@+id/second_song"
+        android:orderInCategory="2"
+        android:title="@string/play_2nd" />
+    <item
+        android:id="@+id/third_song"
+        android:orderInCategory="3"
+        android:title="@string/play_3td" />
+</menu>

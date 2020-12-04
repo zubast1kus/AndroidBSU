@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Service_lab3</string>
+    <string name="play_1st">Play 1st</string>
+    <string name="play_2nd">Play 2nd</string>
+    <string name="play_3td">Play 3td</string>
+</resources>
